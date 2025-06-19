@@ -1,7 +1,6 @@
 streamlit
 pyrebase4
 setuptools
-time
 pandas
 numpy
 matplotlib
